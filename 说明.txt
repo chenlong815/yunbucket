@@ -1,0 +1,5 @@
+﻿1.该项目使用七牛云存储实现文件云上传、存储。七牛官网：http://www.qiniu.com/
+2.ThinkPHP开发版本未完，项目根目录下面的两个zip文件。
+第一个版本上线可访问网址：http://123.57.242.185//yunbucket/qiniuyun/preindex.php
+3.数据库文件：email_permission.sql
+4.大文件的上传使用七牛官网的上传工具qshell，配置好对应云空间的密钥等信息即可使用大工具批量上传

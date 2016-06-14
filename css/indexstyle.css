@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+}
+
+#up_load{
+    margin: auto;
+    width: 1024px;
+    height: 950px;
+    background: whitesmoke;
+}
+/*#up_load h1{*/
+    /*text-align: center;*/
+/*}*/
+#title{
+    width: 1024px;
+    height: 100px;
+    background: steelblue;
+}
+
+#title h1{
+    padding-top: 30px;
+}
+#upfile{
+    width: 1024px;
+    height: 50px;
+    /*border-bottom: 1px solid #000000;*/
+}
+#upfile_form{
+    float: right;
+    margin-top: 25px;
+    margin-right: 70px;
+}
+#upfile #uploadsubmit{
+    width: 70px;
+    height: 25px;
+    /*background-color: #BBBBBB;*/
+}
+#list_file{
+    margin-top: 20px;
+    height: 750px;
+    width: 1024px;
+}
+
+#list_file #listtable{
+    width: 1024px;
+    margin-left: 70px;
+}
+
+#list_file #th_name{
+    width: 500px;
+    height: 40px;
+    color: steelblue;
+    margin-left: 30px;
+    /*background: red;*/
+    text-align:left;
+    padding-left: 50px;
+}
+#list_file #th_size{
+    width: 200px;
+    height: 40px;
+    color:steelblue;
+    /*background: green;*/
+    text-align:right;
+    /*padding-left: 90px;*/
+}
+#list_file #th_time{
+    width: 200px;
+    height: 40px;
+    color:steelblue;
+    /*background: palevioletred;*/
+    text-align:left;
+    padding-left: 70px;
+}
+#list_file #th_deal{
+    width: 200px;
+    height: 40px;
+    color:steelblue;
+    /*background: yellowgreen;*/
+    text-align:right;
+    padding-right: 10px;
+}
+
+#list_file td{
+    width: 200px;
+    height: 30px;
+}
+
+#list_file #td_name{
+    width: 500px;
+    height: 30px;
+
+}
+#list_file #td_size{
+    width: 200px;
+    height: 30px;
+    text-align:right;
+}
+#list_file #td_time{
+    width: 200px;
+    height: 30px;
+    text-align:center;
+}
+#list_file #td_deal{
+    width: 200px;
+    height: 30px;
+    text-align:right;
+}
+
+#list_name{
+    margin-left: 20px;
+    text-decoration: none;
+
+    color: #000000;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+#share{
+    float: right;
+    margin-right: 5px;
+}
+#pagediv{
+    background: steelblue;
+    width: 1024px;
+    height: 50px;
+}
+#pagediv #pageul{
+    padding-top: 20px;
+}
+#pagediv #pageul #pageitem{
+    margin-left: 15px;
+    text-decoration: none;
+    float: left;
+    color: #000000;
+    font-weight: bold;
+}
+#pagediv #pageul #pageitem:hover{
+    background: white;
+}
+
+#pagediv #pageul #pageitem2{
+    margin-left: 35px;
+    text-decoration: none;
+    float: left;
+    color: #000000;
+    font-weight: bold;
+}
+#pagediv #pageul #pageitem2:hover{
+    background: white;
+}
+
+#pagediv #pageul #pagejump_form{
+    margin-left: 10px;
+    float: left;
+}
+
+#pagediv #pageul #page_jump{
+    margin-left: 10px;
+}
+#pagediv #pageul #page_edit{
+    width: 30px;
+    margin-left: 30px;
+}
+#pagediv #pageul #tool{
+    float: right;
+    text-decoration: none;
+    margin-right: 50px;
+    color: white;
+}
+#pagediv #pageul #tool:hover{
+    background: #000000;
+}

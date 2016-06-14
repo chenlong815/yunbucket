@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    /*background: lightgoldenrodyellow;*/
+}
+
+#emailmain {
+    margin: auto;
+    width: 700px;
+    height: 900px;
+    background: ghostwhite;
+}
+
+#emailmain h4 {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#emailmain #hr {
+    padding-top: 10px;
+}
+
+#emailmain #hs {
+    padding-top: 10px;
+}
+
+#emailmain #hc {
+    padding-top: 10px;
+}
+
+#titlediv {
+    width: 700px;
+    height: 100px;
+    background: steelblue;
+}
+
+#titledivh2 {
+    padding-top: 30px;
+}
+
+#formdiv {
+    margin-top: 0px;
+    width: 700px;
+    height: 800px;
+    background: steelblue;
+}
+
+#sendemail {
+
+}
+
+#receiver {
+    width: 200px;
+    height: 23px;
+    margin-left: 10px;
+}
+
+#subject {
+    width: 200px;
+    height: 23px;
+    margin-left: 10px;
+}
+
+#title {
+    width: 200px;
+    height: 23px;
+}
+
+#content {
+    width: 680px;
+    height: 600px;
+    margin-left: 10px;
+
+}
+
+#sub {
+    margin: 10px;
+    float: right;
+}

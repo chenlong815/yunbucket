@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+#upfile {
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+#upfile_form {
+    float: right;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+#list_file {
+    margin-top: 20px;
+    height: 1250px;
+}
+
+#file {
+    float: left;
+}
+
+#pagediv {
+    height: 50px;
+}
+
+#pagediv #pageul {
+    padding-top: 20px;
+}
+
+#pagediv #pageul #pageitem {
+    margin-left: 15px;
+    text-decoration: none;
+    float: left;
+}
+
+#pagediv #pageul #pageitem2 {
+    margin-left: 35px;
+    text-decoration: none;
+    float: left;
+}
+
+#pagediv #pageul #pagejump_form {
+    margin-left: 10px;
+    float: left;
+}
+
+#pagediv #pageul #page_jump {
+    margin-left: 10px;
+}
+
+#pagediv #pageul #page_edit {
+    width: 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+    float: left;
+}
+
+#pagediv #pageul #tool {
+    float: right;
+    text-decoration: none;
+    margin-right: 50px;
+    color: #5272ab;
+
+}
+
+#pagediv #pageul #tool:hover {
+    color: #252D3B;
+}
