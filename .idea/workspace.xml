@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="说明.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/说明.txt">
+      <file leaf-file-name="Ajax.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/Ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="183" selection-end="183" vertical-scroll-proportion="0.107744105" vertical-offset="0" max-vertical-offset="891">
+            <state line="26" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.24579124" vertical-offset="405" max-vertical-offset="1296">
               <folding />
             </state>
           </provider>
@@ -53,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Test/testPage.php" />
-        <option value="$PROJECT_DIR$/Test/testPageView.php" />
         <option value="$PROJECT_DIR$/QiNiuUpload/uploadFile.php" />
         <option value="$PROJECT_DIR$/phpsdk706/src/Qiniu/Http/Client.php" />
         <option value="$PROJECT_DIR$/phpsdk706/src/Qiniu/Storage/BucketManager.php" />
@@ -104,6 +102,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/testGit/testGit.html" />
         <option value="$PROJECT_DIR$/说明.txt" />
+        <option value="$PROJECT_DIR$/Test/test.js" />
+        <option value="$PROJECT_DIR$/Test/testJs.html" />
       </list>
     </option>
   </component>
@@ -297,7 +297,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -376,11 +376,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/testEmail2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="180" selection-end="180" vertical-scroll-proportion="0.14084508" vertical-offset="0" max-vertical-offset="1032" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/testEmail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="5" selection-start="259" selection-end="259" vertical-scroll-proportion="0.43661973" vertical-offset="108" max-vertical-offset="1032" />
@@ -516,11 +511,6 @@
         <state line="312" column="51" selection-start="14261" selection-end="14261" vertical-scroll-proportion="0.39227894" vertical-offset="7173" max-vertical-offset="20112" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="49" selection-start="943" selection-end="966" vertical-scroll-proportion="0.7887324" vertical-offset="0" max-vertical-offset="888" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qiniuyun/assets/css/indexstyle2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="0" selection-start="868" selection-end="868" vertical-scroll-proportion="0.71929824" vertical-offset="825" max-vertical-offset="1680" />
@@ -628,9 +618,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="10" selection-start="943" selection-end="966" vertical-scroll-proportion="0.7887324" vertical-offset="0" max-vertical-offset="912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/说明.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="183" selection-end="183" vertical-scroll-proportion="0.107744105" vertical-offset="0" max-vertical-offset="891">
+        <state line="4" column="51" selection-start="232" selection-end="232" vertical-scroll-proportion="0.107744105" vertical-offset="0" max-vertical-offset="891">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.24579124" vertical-offset="405" max-vertical-offset="1296">
           <folding />
         </state>
       </provider>
